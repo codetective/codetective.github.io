@@ -10,13 +10,13 @@
 ---
 [Node React: Pharmaconn Social media](https://pharmaconn.netlify.app/)
 <br/>
-<p>Login with _iaminiodu@gmail.com_ and password as _password_</p>
+<p>Login with <b>iaminiodu@gmail.com</b> and password as <b>password</b></p>
 <img src="images/pharma.png?raw=true"/>
 
 ---
 [Node Mongo + Vanilla Javascript: Shopper Store Manager](https://shoppa.netlify.app/)
 <br/>
-<p>Login with _iaminiodu@gmail.com_ and password as _password_</p>
+<p>Login with <b>admin</b> and password as <b>adminpass</b></p>
 <img src="images/Shopper.png?raw=true"/>
 
 ---
