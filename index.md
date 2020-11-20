@@ -2,28 +2,30 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Learning React: Hebron Farms](https://hebronfarms.netlify.app/)
+<img src="images/hebron.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Node React: Pharmaconn Social media](https://pharmaconn.netlify.app/)
+<br/>
+<p>Login with _iaminiodu@gmail.com_ and password as _password_</p>
+<img src="images/pharma.png?raw=true"/>
+
+---
+[Node Mongo + Vanilla Javascript: Shopper Store Manager](https://shoppa.netlify.app/)
+<br/>
+<p>Login with _iaminiodu@gmail.com_ and password as _password_</p>
+<img src="images/Shopper.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Simple Fetch app utilizing Wikipedia and Guardian news API](https://fetcher.netlify.app)
+- [Simple Quiz app](https://quizzier.netlify.app)
+- [Charity Site in React](https://johnuodekongfoundation.netlify.app)
 
 ---
 
